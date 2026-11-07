@@ -13,6 +13,20 @@
     "license": "CC BY 3.0",
     "page": "https://commons.wikimedia.org/wiki/File:Tai_O_201308.jpg"
   },
+  "bridge": {
+    "file": "bridge.jpg",
+    "title": "Tai O steel bridge 3.jpg",
+    "artist": "Enoch Lau (Enochlau)",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tai_O_steel_bridge_3.jpg"
+  },
+  "market": {
+    "file": "market.jpg",
+    "title": "Markets at Tai O 2.jpg",
+    "artist": "Enoch Lau (Enochlau)",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Markets_at_Tai_O_2.jpg"
+  },
   "kwantai": {
     "file": "kwantai.jpg",
     "title": "Kwan Tai Temple, Tai O (Hong Kong).jpg",
@@ -27,6 +41,20 @@
     "license": "CC BY-SA 3.0",
     "page": "https://commons.wikimedia.org/wiki/File:Tai_O_Yeung_Hau_Temple_(Hong_Kong).jpg"
   },
+  "tinhau": {
+    "file": "tinhau.jpg",
+    "title": "HK TaiOTinHauTemple in December 2024.jpg",
+    "artist": "姒姓賢寧",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:HK_TaiOTinHauTemple_in_December_2024.jpg"
+  },
+  "fushan": {
+    "file": "fushan.jpg",
+    "title": "View from Fu Shan 25-06-2022.jpg",
+    "artist": "LN9267",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_from_Fu_Shan_25-06-2022.jpg"
+  },
   "saltedfish": {
     "file": "saltedfish.jpg",
     "title": "Salted fish in Tai O.jpg",
@@ -40,19 +68,5 @@
     "artist": "方畢可",
     "license": "CC0",
     "page": "https://commons.wikimedia.org/wiki/File:Shrimp_paste_manufacturing_in_Tai_O.jpg"
-  },
-  "fushan": {
-    "file": "fushan.jpg",
-    "title": "View from Fu Shan 25-06-2022.jpg",
-    "artist": "LN9267",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:View_from_Fu_Shan_25-06-2022.jpg"
-  },
-  "tinhau": {
-    "file": "tinhau.jpg",
-    "title": "HK TaiOTinHauTemple in December 2024.jpg",
-    "artist": "姒姓賢寧",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_TaiOTinHauTemple_in_December_2024.jpg"
   }
 }
