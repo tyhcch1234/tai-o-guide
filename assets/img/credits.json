@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "file": "hero.jpg",
+    "title": "1 tai o lantau aerial photo 2015.jpg",
+    "artist": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1_tai_o_lantau_aerial_photo_2015.jpg"
+  },
+  "stilt": {
+    "file": "stilt.jpg",
+    "title": "Tai O 201308.jpg",
+    "artist": "Wing1990hk",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tai_O_201308.jpg"
+  },
+  "kwantai": {
+    "file": "kwantai.jpg",
+    "title": "Kwan Tai Temple, Tai O (Hong Kong).jpg",
+    "artist": "Mk2010",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kwan_Tai_Temple,_Tai_O_(Hong_Kong).jpg"
+  },
+  "yeunghau": {
+    "file": "yeunghau.jpg",
+    "title": "Tai O Yeung Hau Temple (Hong Kong).jpg",
+    "artist": "Mk2010",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tai_O_Yeung_Hau_Temple_(Hong_Kong).jpg"
+  },
+  "saltedfish": {
+    "file": "saltedfish.jpg",
+    "title": "Salted fish in Tai O.jpg",
+    "artist": "方畢可",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Salted_fish_in_Tai_O.jpg"
+  },
+  "shrimppaste": {
+    "file": "shrimppaste.jpg",
+    "title": "Shrimp paste manufacturing in Tai O.jpg",
+    "artist": "方畢可",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Shrimp_paste_manufacturing_in_Tai_O.jpg"
+  },
+  "fushan": {
+    "file": "fushan.jpg",
+    "title": "View from Fu Shan 25-06-2022.jpg",
+    "artist": "LN9267",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_from_Fu_Shan_25-06-2022.jpg"
+  },
+  "tinhau": {
+    "file": "tinhau.jpg",
+    "title": "HK TaiOTinHauTemple in December 2024.jpg",
+    "artist": "姒姓賢寧",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:HK_TaiOTinHauTemple_in_December_2024.jpg"
+  }
+}
